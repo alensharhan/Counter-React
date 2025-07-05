@@ -29,7 +29,7 @@ function Counter() {
         <h2>Counter</h2>
       </div>
       <div className={styles.btn}>
-        <button onClick={handleDecrement} className={styles.decrementBtn}>
+        <button onClick={handleDecrement}>
           -
         </button>
         <button onClick={handleIncrement}>
