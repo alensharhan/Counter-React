@@ -16,7 +16,7 @@ Perfect for learning state management, local storage, and component-based archit
 
 ## 📸 Preview
 
-![React Counter App Screenshot]("./Readme pic/preview-page.png") <!-- Add a real screenshot if available -->
+![React Counter App Screenshot](Readme-pic/preview-page.png) <!-- Add a real screenshot if available -->
 
 ---
 
