@@ -5,6 +5,11 @@ Perfect for learning state management, local storage, and component-based archit
 
 ---
 
+### 🚀 Live Demo  
+
+[Click here to view the live app](https://counter-lite-react.netlify.app)
+
+
 ## 🚀 Features
 
 - 🧠 **State Persistence** — Saves your count in `localStorage` so it never resets
