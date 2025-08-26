@@ -1,6 +1,6 @@
 # 🌿 React Counter App
 
-A beautifully simple, delightfully responsive counter app — built with **React + Vite**, styled with clean **CSS**, and elevated with **Google Fonts**.  
+A beautifully simple, delightfully responsive counter app - built with **React + Vite**, styled with clean **CSS**, and elevated with **Google Fonts**.  
 Perfect for learning state management, local storage, and component-based architecture.
 
 ---
