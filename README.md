@@ -12,10 +12,10 @@ Perfect for learning state management, local storage, and component-based archit
 
 ## 🚀 Features
 
-- 🧠 **State Persistence** — Saves your count in `localStorage` so it never resets
-- ⚡ **Vite Powered** — Fast development server & hot module replacement
-- 🎨 **Minimal UI** — Focused, clean design with smooth user experience
-- 📱 **Responsive Layout** — Looks great on all screen sizes
+- 🧠 **State Persistence** - Saves your count in `localStorage` so it never resets
+- ⚡ **Vite Powered** - Fast development server & hot module replacement
+- 🎨 **Minimal UI** - Focused, clean design with smooth user experience
+- 📱 **Responsive Layout** - Looks great on all screen sizes
 
 ---
 
